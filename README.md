@@ -1,2 +1,1 @@
-# printing_certificates_automation
-a python notebook for automating the process of printing multiple certificates.
+the code is pretty straightforward and comments should guide you on what to edit if you neeed more personalization.
